@@ -27,3 +27,8 @@ plot(pressure)
 ```
 
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+##new session for assignment3
+```{r out.width = '60%', echo = FALSE, fig.align = "center"}
+knitr::include_graphics("C:/Users/ahpan/Desktop/Ice/Monash University Learning/ITO5513/OrgMember/Assignment3fork-bliu-fork3/figs/yourfigure.png")
+```
+
